@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+.form-control {
+  width: 400px !important;
+}
+
+.btn {margin-left: -100px; width: 40px;}
+
+form {padding: 0 10px;}
+
+.label {padding: 0; margin-bottom: 5px; font-size: 12px;}
+
+h1 {padding: 20px 0;}
